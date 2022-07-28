@@ -1,3 +1,4 @@
 # Livegram
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/okay-retard/Livegram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shareefshaji/livegram)
+##https://github.com/okay-retard/Livegram)
